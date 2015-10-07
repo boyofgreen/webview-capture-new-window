@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>App5</title>
+
+    <style>
+        html, body, x-ms-webview {
+        display:block;
+        width:100%;
+        height:100%;
+        }
+    </style>
+
+</head>
+<body class="">
+    <x-ms-webview id="webview" src="ms-appx-web:///page.html" ></x-ms-webview>
+    <script>
+
+        var webview = document.getElementById('webview');
+        webview.addEventListener("MSWebViewNewWindowRequested", function (e) {
+           
+            console.log(e.uri);
+            if (e.uri === 'http://www.bing.com/') {
+                e.preventDefault();
+
+                webview.navigate(e.uri);
+  
+            }
+            return
+        });
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-SG0A8P4</Machine>
+    <WindowsUser>jeffburt</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>3c32b54f-1f5b-49a1-9cf1-f9b5d4edb96f</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\jeffburt\documents\visual studio 2015\Projects\App5\App5\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>DEFD5EEEE04EBC3AEE9F307BB9BE585C4D0F2AE09D97277703EB49648671B0D3</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>3c32b54f-1f5b-49a1-9cf1-f9b5d4edb96f_1.0.0.0_neutral__121f93x7gz0tm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>3c32b54f-1f5b-49a1-9cf1-f9b5d4edb96f_121f93x7gz0tm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>3c32b54f-1f5b-49a1-9cf1-f9b5d4edb96f</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=jeffburt</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\jeffburt\documents\visual studio 2015\Projects\App5\App5\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-07T13:42:07.696</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\jeffburt\documents\visual studio 2015\Projects\App5\App5\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2015-10-07T13:48:32.302</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jeffburt\documents\visual studio 2015\Projects\App5\App5\page.html">
+      <PackagePath>page.html</PackagePath>
+      <Modified>2015-10-07T13:48:01.117</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jeffburt\documents\visual studio 2015\Projects\App5\App5\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2015-06-05T03:32:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jeffburt\documents\visual studio 2015\Projects\App5\App5\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <Modified>2015-06-05T03:32:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jeffburt\documents\visual studio 2015\Projects\App5\App5\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <Modified>2015-06-05T03:32:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jeffburt\documents\visual studio 2015\Projects\App5\App5\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <Modified>2015-06-05T03:32:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jeffburt\documents\visual studio 2015\Projects\App5\App5\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <Modified>2015-06-05T03:32:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jeffburt\documents\visual studio 2015\Projects\App5\App5\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <Modified>2015-06-05T03:32:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jeffburt\documents\visual studio 2015\Projects\App5\App5\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <Modified>2015-06-05T03:32:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jeffburt\documents\visual studio 2015\Projects\App5\App5\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2015-06-16T22:50:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jeffburt\documents\visual studio 2015\Projects\App5\App5\WinJS\js\en-US\ui.strings.js">
+      <PackagePath>WinJS\js\en-US\ui.strings.js</PackagePath>
+      <Modified>2015-06-05T03:32:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jeffburt\documents\visual studio 2015\Projects\App5\App5\WinJS\js\base.js">
+      <PackagePath>WinJS\js\base.js</PackagePath>
+      <Modified>2015-06-24T04:36:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jeffburt\documents\visual studio 2015\Projects\App5\App5\WinJS\js\ui.js">
+      <PackagePath>WinJS\js\ui.js</PackagePath>
+      <Modified>2015-06-24T04:36:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jeffburt\documents\visual studio 2015\Projects\App5\App5\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2015-06-05T03:32:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jeffburt\documents\visual studio 2015\Projects\App5\App5\WinJS\css\ui-dark.css">
+      <PackagePath>WinJS\css\ui-dark.css</PackagePath>
+      <Modified>2015-06-24T04:36:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jeffburt\documents\visual studio 2015\Projects\App5\App5\WinJS\css\ui-light.css">
+      <PackagePath>WinJS\css\ui-light.css</PackagePath>
+      <Modified>2015-06-24T04:36:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jeffburt\documents\visual studio 2015\Projects\App5\App5\WinJS\fonts\Symbols.ttf">
+      <PackagePath>WinJS\fonts\Symbols.ttf</PackagePath>
+      <Modified>2015-06-05T03:32:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jeffburt\documents\visual studio 2015\Projects\App5\App5\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-10-07T13:42:07.514</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
